@@ -72,20 +72,21 @@ The system includes:
 
 | S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
 |------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+|   1.   |       56            |           36.746            |       14.34               |    100.121          |  0       |    7.36875e^-05         | 0.546875/0                                    |
+|     2. |        57           |            34.527          |         14.61             |      95.3597        |    0     |  7.0309e^-05           |  0.546875/0                                   |
+|    3.  |        58           |           32.433          |           14.890           |      97.6032        |     0    |  6.70621e^-05           | 0.546875/0                                    |
+|  4. |         59          |               32.520         |             14.878         |   82.2262           |      0   |  6.38208e^-05           |   0.546875/0                                  |
+|   5.   |     60              |             31.056           |           15.079           |  88.7921            |    0     |  6.11032e^-05           | 0.546875/0                                    |
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="861" height="314" alt="Screenshot 2025-11-28 at 9 56 08 AM" src="https://github.com/user-attachments/assets/6edd9864-990e-4d8c-8428-d61703c65d51" />
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus the optical communication system was exercise and verified successfully.
